@@ -4,4 +4,7 @@ just test
 =======
 
 a line is added
+<<<<<<
+=======
 >>>>
+>>>>>>
