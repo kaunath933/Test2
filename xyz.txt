@@ -1,3 +1,7 @@
 hello, this is kaushik
 
 just test
+=======
+
+a line is added
+>>>>
